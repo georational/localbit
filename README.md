@@ -1,4 +1,4 @@
-# Local Network Cloudbit
+# nimBit
 
 ## Introduction
 
