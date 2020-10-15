@@ -1,5 +1,6 @@
 # nimBit
 
+From Latin nimbus [ˈnɪm.bʊs]
 ## Introduction
 
 The [Littlebits w20 cloudbit
