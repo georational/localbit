@@ -1,5 +1,11 @@
 # nimBit
 
+                   ,-.    .   
+                   |  )   |   
+       ;-. . ;-.-. |-<  . |-  
+       | | | | | | |  ) | |   
+       ' ' ' ' ' ' `-'  ' `-' 
+
 From Latin nimbus [ˈnɪm.bʊs]
 ## Introduction
 
