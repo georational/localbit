@@ -6,10 +6,10 @@ From Latin *nimbus*, pl. *nimbi*, "rain cloud"
 
 <html><p align="center">
 <img src="README.img/BASh.PNG" alt="BASH" title="BASH" width="32" height="32">    
-<img src="README.img/cURL.PNG" alt="cURL" title="cURL" width="32" height="32">    
+<img src="README.img/cURL.PNG" alt="cURL" title="cURL" href="https://github.com/curl/curl" width="32" height="32">    
 <img src="README.img/Python.PNG" alt="Python" title="Python" width="32" height="32">    
-<img src="README.img/Flask.PNG" alt="Flask" title="Flask" width="32" height="32">    
-<img src="README.img/Gevent.PNG" alt="Gevent" title="Gevent" width="32" height="32">    
+<img src="README.img/Flask.PNG" alt="Flask" title="Flask" href="https://github.com/pallets/flask" width="32" height="32">    
+<img src="README.img/Gevent.PNG" alt="Gevent" title="Gevent" href="https://github.com/gevent/gevent" width="32" height="32">    
 </p></html>
 
 The [Littlebits w20 cloudbit
