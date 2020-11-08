@@ -1,6 +1,10 @@
 # nimBit
-From Latin *nimbus*, plural *nimbi*, "raincloud"
+From Latin *nimbus*, pl. *nimbi*, "raincloud"
 ## Introduction
+
+
+
+![BASh](README.img/BASh.PNG)   ![BASh](README.img/cURL.PNG)    ![BASh](README.img/Python.PNG)   ![BASh](README.img/Flask.PNG)    ![BASh](README.img/Gevent.PNG)
 
 
 
