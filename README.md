@@ -1,13 +1,8 @@
 # nimBit
-
-            ,-.    .   
-            |  )   |   
-;-. . ;-.-. |-<  . |-  
-| | | | | | |  ) | |   
-' ' ' ' ' ' `-'  ' `-' 
-
-From Latin *nimbus*, plural *nimbi*, "Raincloud"
+From Latin *nimbus*, plural *nimbi*, "raincloud"
 ## Introduction
+
+
 
 The [Littlebits w20 cloudbit
 bit](https://shop.littlebits.com/products/cloudbit) is a great idea:
