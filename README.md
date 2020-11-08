@@ -1,18 +1,12 @@
 # nimBit
-From Latin *nimbus*, pl. *nimbi*, "raincloud"
+From Latin *nimbus*, pl. *nimbi*, "rain cloud"
 ## Introduction
 
 
 
 ![BASh](README.img/BASh.PNG)   ![BASh](README.img/cURL.PNG)    ![BASh](README.img/Python.PNG)   ![BASh](README.img/Flask.PNG)    ![BASh](README.img/Gevent.PNG)
 
-<p align="center">
-  <img src="README.img/BASh.PNG" width="64" height="64">
-  <img src="README.img/cURL.PNG" width="64" height="64>
-  <img src="README.img/Python.PNG" width="64" height="64">
-   <img src="README.img/Flask.PNG" width="64" height="64">
-   <img src="README.img/Gevent.PNG" width="64" height="64">
-</p>
+<p align="center"><img src="README.img/BASh.PNG" width="64" height="64"><img src="README.img/cURL.PNG" width="64" height="64><img src="README.img/Python.PNG" width="64" height="64"><img src="README.img/Flask.PNG" width="64" height="64"><img src="README.img/Gevent.PNG" width="64" height="64"></p>
 
 The [Littlebits w20 cloudbit
 bit](https://shop.littlebits.com/products/cloudbit) is a great idea:
