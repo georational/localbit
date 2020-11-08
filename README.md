@@ -1,12 +1,12 @@
 # nimBit
 
-                   ,-.    .   
-                   |  )   |   
-       ;-. . ;-.-. |-<  . |-  
-       | | | | | | |  ) | |   
-       ' ' ' ' ' ' `-'  ' `-' 
+            ,-.    .   
+            |  )   |   
+;-. . ;-.-. |-<  . |-  
+| | | | | | |  ) | |   
+' ' ' ' ' ' `-'  ' `-' 
 
-From Latin nimbus [ˈnɪm.bʊs]
+From Latin *nimbus*, plural *nimbi*, "Raincloud"
 ## Introduction
 
 The [Littlebits w20 cloudbit
